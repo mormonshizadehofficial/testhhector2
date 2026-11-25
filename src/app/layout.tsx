@@ -22,7 +22,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
-      <meta name="hector-verification" content="hector-site-verification=d67313719f2ac84f840d206a5038449c" />
+       <meta name="hector-verification" content="hector-site-verification=3896a278bff86537a816e7075adf2b89" />
       <body className={inter.className}>
         <ThemeProvider attribute="class">
           <Navbar />
